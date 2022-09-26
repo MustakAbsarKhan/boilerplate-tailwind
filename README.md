@@ -1,7 +1,7 @@
 # tailwind-boilerplate
 Customized TailwindCSS Boilerplate with additional features.<br>
 
-[CHECK BOILERPLATE STATUS](https://mustakabsarkhan.github.io/tailwind-boilerplate/)
+[CHECK BOILERPLATE STATUS](https://mustakabsarkhan.github.io/boilerplate-tailwind/)
 # Run The Build: <br>
 **Step 1**<br>
 ```bash
